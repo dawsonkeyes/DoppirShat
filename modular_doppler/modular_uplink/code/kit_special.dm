@@ -14,12 +14,12 @@
 	cost = 20
 	purchasable_from = ~(UPLINK_ALL_SYNDIE_OPS | UPLINK_SPY)
 
-/datum/uplink_item/speckit/juggernuat
+/datum/uplink_item/speckit/juggernaut
 	name = "Juggernaut Care Package"
 	desc = "The heaviest suit of armor sophont hands could possibly make alongside a laser minigun backpack, various medical \
 		airhypos, a shell launch system, and a hormone regulator, purpose-built to keep the user standing no matter the damage \
 		that they might physically take."
-	item = /obj/item/storage/box/syndicate/bundle/juggernuat
+	item = /obj/item/storage/box/syndicate/bundle/juggernaut
 	cost = 20
 	purchasable_from = ~(UPLINK_ALL_SYNDIE_OPS | UPLINK_SPY)
 
